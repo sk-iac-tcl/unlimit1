@@ -1,1 +1,0 @@
-TCL 활동의 일환으로 unlimit1이 terraform을 실습해 보는 공간입니다.
